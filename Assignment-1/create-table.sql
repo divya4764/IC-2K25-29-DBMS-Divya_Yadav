@@ -4,3 +4,4 @@ CREATE TABLE countries (
   country_name VARCHAR(50),
   region_id INT 
 );
+--Q2 : 
