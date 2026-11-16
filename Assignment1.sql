@@ -1,7 +1,4 @@
 -- DBMS Assignment 1: DDL, Keys and Constraints
--- Dialect: MySQL 8.x
--- Run statements in order where a later statement depends on an earlier table.
--- Note: Question wording has a few ambiguities; assumptions are explained inline.
 
 -- Q1. Create a simple countries table.
 CREATE TABLE countries (
