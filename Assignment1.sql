@@ -201,6 +201,3 @@ CREATE TABLE employees_q20 (
         ON UPDATE NO ACTION
 ) ENGINE=InnoDB;
 
--- Useful verification commands:
--- SHOW CREATE TABLE countries_q11;
--- DESCRIBE employees_q16;
