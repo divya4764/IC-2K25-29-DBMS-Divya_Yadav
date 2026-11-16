@@ -1,4 +1,4 @@
--- DBMS Assignment 3: Filtering and Operators
+-- DBMS Assignment 3: Filtering and Operators.
 -- Assumed database: the standard HR sample database.
 
 -- Q1. Employees whose salary is outside the inclusive range 10000–15000.
