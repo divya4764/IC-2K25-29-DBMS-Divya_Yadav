@@ -1,4 +1,4 @@
--- DBMS Assignment 2: MySQL SELECT Queries
+-- DBMS Assignment 2: MySQL SELECT Queries.
 -- Assumed database: the standard HR sample database.
 -- Main table: employees. Columns follow the usual HR schema.
 
