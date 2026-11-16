@@ -1,4 +1,4 @@
--- DBMS Assignment 4: Aggregate Functions and GROUP BY
+-- DBMS Assignment 4: Aggregate Functions and GROUP BY.
 -- Assumed database: the standard HR sample database.
 
 -- Q1. Number of distinct jobs available.
@@ -78,3 +78,4 @@ SELECT department_id, AVG(salary) AS average_salary
 FROM employees
 GROUP BY department_id
 HAVING COUNT(*) > 10;
+--end.
